@@ -1,0 +1,62 @@
+
+.image
+{
+    width: 33%;
+    border-radius: 15%;
+}
+
+.logo
+{
+    width: 10%;
+    height: 10%;
+    position: absolute;
+    top: 10px;
+}
+
+h1
+{
+    text-align: center;
+    width: 70%;
+    margin:auto;
+}
+
+header
+{
+    height: 150px;
+    background-color : violet; 
+}
+
+footer
+{
+    text-align: center;
+    background-color : violet;
+}
+
+section
+{
+    width: 80%;
+    margin: auto;
+}
+
+.clignote 
+{
+    position: relative;
+    font-size: 45px;
+    letter-spacing: 2px;
+    background: linear-gradient(90deg, #90ee90, #fff, #000);
+    background-repeat: repeat;
+    background-size: 80%;
+    animation: animate 5s infinite;
+    background-clip: content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+
+@keyframes animate {
+    0% {
+      background-position: -500%;
+    }
+    100% {
+      background-position: 500%;
+    }
+  }

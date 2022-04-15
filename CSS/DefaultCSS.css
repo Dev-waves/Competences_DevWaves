@@ -1,0 +1,241 @@
+body {
+    background-image:radial-gradient(rgb(30, 132, 127),rgb(18, 164, 217));
+    color: black;
+}
+
+/*header*/
+
+.header{
+    font-size:2rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+    
+h1  {
+    font-size: 2,5rem;
+    color: coral;
+    text-align: center;
+}
+
+.img_profil {
+     width: 100px;
+     height: 100px;
+     border: 2px;
+     border-radius: 50%;
+}
+
+/*Main*/
+
+.competence {
+
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border:2px solid black;
+    box-shadow: 8px 8px 8px coral;
+    background-color: rgb(221, 205, 205);
+    text-align: center;
+}
+
+
+.nom_comp {
+    color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+    
+}
+
+.levels {
+    color: black;
+}
+
+li{
+list-style-type: none;
+
+}
+
+a{
+margin-right: 10px;
+font-size: larger;
+font-family: fantasy;
+color: coral;
+
+}
+.retour{
+float: right;
+
+}
+
+/*popo compétence 1 */
+#potion1C1 {
+    display: none;
+}
+#potion1C1:target {
+    display: block;
+}
+#potion2C1 {
+    display: none;
+}
+#potion2C1:target {
+    display: block;
+}
+#potion3C1{
+    display: none;
+}
+#potion3C1:target {
+    display: block;
+}
+
+
+/*popo compétence 2 */
+#potion1C2 {
+    display: none;
+}
+#potion1C2:target {
+    display: block;
+}
+#potion2C2 {
+    display: none;
+}
+#potion2C2:target {
+    display: block;
+}
+#potion3C2{
+    display: none;
+}
+#potion3C2:target {
+    display: block;
+}
+
+
+/*popo compétence 3 */
+#potion1C3 {
+    display: none;
+}
+#potion1C3:target {
+    display: block;
+}
+#potion2C3 {
+    display: none;
+}
+#potion2C3:target {
+    display: block;
+}
+#potion3C3{
+    display: none;
+}
+#potion3C3:target {
+    display: block;
+}
+
+
+/*popo compétence 4 */
+#potion1C4 {
+    display: none;
+}
+#potion1C4:target {
+    display: block;
+}
+#potion2C4 {
+    display: none;
+}
+#potion2C4:target {
+    display: block;
+}
+#potion3C4{
+    display: none;
+}
+#potion3C4:target {
+    display: block;
+}
+
+/*popo compétence 5 */
+#potion1C5 {
+    display: none;
+}
+#potion1C5:target {
+    display: block;
+}
+#potion2C5 {
+    display: none;
+}
+#potion2C5:target {
+    display: block;
+}
+#potion3C5{
+    display: none;
+}
+#potion3C5:target {
+    display: block;
+}
+
+/*popo compétence 6 */
+#potion1C6 {
+    display: none;
+}
+#potion1C6:target {
+    display: block;
+}
+#potion2C6 {
+    display: none;
+}
+#potion2C6:target {
+    display: block;
+}
+#potion3C6{
+    display: none;
+}
+#potion3C6:target {
+    display: block;
+}
+
+
+/*popo compétence 7 */
+#potion1C7 {
+    display: none;
+}
+#potion1C7:target {
+    display: block;
+}
+#potion2C7 {
+    display: none;
+}
+#potion2C7:target {
+    display: block;
+}
+#potion3C7{
+    display: none;
+}
+#potion3C7:target {
+    display: block;
+}
+
+/*popo compétence 8 */
+#potion1C8 {
+    display: none;
+}
+#potion1C8:target {
+    display: block;
+}
+#potion2C8 {
+    display: none;
+}
+#potion2C8:target {
+    display: block;
+}
+#potion3C8{
+    display: none;
+}
+#potion3C8:target {
+    display: block;
+}
+
+
+
+
+
+/* CSSDefault

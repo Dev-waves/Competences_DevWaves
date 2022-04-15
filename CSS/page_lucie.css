@@ -1,0 +1,38 @@
+body {
+    background-image: url("../image/dan_warrior.jpg");
+}
+
+.titre {
+    background-color: aquamarine;
+}
+
+h1  {
+color: red;
+}
+
+h2 {
+color: yellow;
+}
+
+.nom {
+    background-color: blueviolet;
+}
+
+.img_profil {
+    background-image: url("../image/Lucie.jpg") ;
+    width: 25%;
+}
+
+.competence {
+background-color: green;
+}
+
+.nom_competence {
+background-color: brown;
+}
+
+.levels {
+background-color: black;
+}
+
+/* CSS Lucie*/
